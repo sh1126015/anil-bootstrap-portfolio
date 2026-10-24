@@ -1,6 +1,6 @@
-# Anil Shrestha — Bootstrap Portfolio
+# Anil Shrestha — Information Technology Portfolio
 
-A responsive Bootstrap 5 website created for CSCE 3420. It includes personal text, the author's name, a local SVG image, responsive navigation, and custom styling.
+A responsive Bootstrap 5 portfolio for Anil Shrestha, an Information Technology student and Junior SailPoint Developer. It includes personal background, education, experience, selected projects, skills, a local SVG image, and custom styling.
 
 ## Run locally
 
